@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Quotify Application</string>
+    <string name="quote_1">Never Give-Up</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="karan_gupta">Karan Gupta</string>
+    <string name="quotify">Quotify</string>
+</resources>
