@@ -2,8 +2,8 @@
     <!-- Base application theme. -->
     <style name="Base.Theme.QuotifyApplication" parent="Theme.Material3.DayNight.NoActionBar">
         <!-- Customize your light theme here. -->
-        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+         <item name="colorPrimary">#1D2671</item>
     </style>
 
-    <style name="Theme.QuotifyApplication" parent="Base.Theme.QuotifyApplication" />
+    <style name="Theme.QuotifyApplication" parent="Base.Theme.QuotifyApplication"/>
 </resources>
